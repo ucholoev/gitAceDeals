@@ -1,0 +1,41 @@
+Project Proposal
+
+1. Brief description of system you are proposing. Please include your research reference (contacts, etc.):
+
+The system we are proposing to build is an e-commerce application that includes, machine learning, a point system that offers discounts and rewards, a friend system and a main feed comprising of deals that friends have shared. The site will utilize a machine learning algorithm that recognizes users search history and provides the user with third party sites which offer deals and discounts on items that the user consistently searches for.
+
+The buddy system and main feed offer users the opportunity to see what their friends are purchasing. Users can post deals that they have noticed on the site on their main feed where their friends can view them. If a user who posted a deal has a friend who uses that deal to buy a product then the user who posted the deal will generate points that they can redeem. Users can also acquire points based on the amount of purchases that a user has made using our site whether it was from a deal they posted or general payments.
+
+2. Please explain why you feel there is a need or market for this system:
+
+The retail industry is changing and online shopping is continuing to grow at a rapid pace. This app helps customers look for the best online deals conveniently using other customer posts as well as partnerships with our retail companies. Our app can remember our user’s search history as well as purchase history to find similar or same product category to understand their purchasing patterns and help them find deals for better shopping experiences. The app allows you to add friends, where you can see their purchases as part of the notification system and also share deals with friends as well. With the reward system, it gives our customers an incentive in posting deals for others to be aware, but also for shopping using our app.
+
+Please walk through a typical usage of your system (a scenario). For example, selecting and selling an item; creating an appointment, setting up a sports team:
+
+1. Customer creates an account
+
+2. Customer login/sign in
+
+3. Customer searches for deals
+
+4. Search data is stored into database for client
+
+5. Notifications on deals related to the search history are sent to user account
+
+6. Customer clicks onto notifications of interest
+
+7. App redirects to online shopping website
+
+8. Customer confirms purchase and is taken to the shopping cart
+
+9. Purchase is made by customer, payment is verified
+
+10. Reward points are sent to user after purchase confirmation and from the notification link of the app
+
+4. Please describe the system in more detail. Choose the functions that you feel are most important and describe how they will work. Give each function a title and briefly explain its responsibility in a few sentences:
+
+- The system is an application that allows customers to search for products that they would like to purchase. Based on what the user searches the algorithm will recognize the search history and populate the users feed with deals pertaining to that specific category.
+
+-A reward system provides users the opportunity to receive rewards based on the amount of purchases that they make through our site. Users can also receive points for posting deals and having other friends use that post to purchase products all points that are gathered are then accumulated and can be used to receive rewards and discounts on goods.
+
+- There will also be a main feed where users can post deals pertaining to their category on their feed where other friends can view the deals. There will be a limit to the amount of deals that are posted in order to deter people from utilizing bots.
