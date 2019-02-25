@@ -1,0 +1,9 @@
+1) git clone https://github.com/ucholoev/gitAceDeals.git
+2) cd "path"
+3) git checkout -b "branch name" (creating a new branch)
+4) git pull https://github.com/ucholoev/gitAceDeals.git
+5) git status
+6) git checkout "branch name" (if still master)
+7) git add * (or rm "for delete")
+8) git commit -m "yyyyMMdd:HH:mm Name [Summery]"
+9) git push origin (branch name)
