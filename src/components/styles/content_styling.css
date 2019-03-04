@@ -1,0 +1,48 @@
+.button-padding {
+    margin-right: 10px;
+}
+
+.brand-color{
+    color: white;
+}
+
+.footer-position{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    right: 0;
+}
+
+.center-div{
+    margin: 0 auto;
+    width: 70%;
+    height: 100%;
+}
+
+.navbar-margin-below{
+    margin-bottom: 20px;
+}
+
+.card-height{
+    height: 250px;
+}
+
+.center-cards{
+    text-align: center;
+}
+
+.cards-icons{
+    position: absolute;
+    width: 300px;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-color: lightgray;
+}
+
+.opacity-card{
+    opacity: 0.8;
+}
+
